@@ -1,16 +1,11 @@
 # not
 
-Returns the negation of a function
+This module is a joke.
 
 ## Example
 
 ```
-var not = require("not")
-    , truth = function () { return true }
-    , lies = function () { return false }
-
-// false true
-console.log(not(truth)(), not(lies)())
+// Do not us this.
 ```
 
 ## Installation
